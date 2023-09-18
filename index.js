@@ -2,4 +2,4 @@ const name = "susan" ;
 const height = 35 ;
 const message = `${name} is ${height} inches tall` ;
 
-module.exports = {name, height, message};
+module.exports = {name, height, message}; 
